@@ -17,5 +17,5 @@ multimedia nerd, optimization fanatic, top 7k VN mania player, and more!
 | Ethereum | ![Ethereum](./img/eth.png) |
 | Bitcoin | ![Bitcoin](./img/btc.png) |
 | Momo (Vietnamese e-wallet) | ![Momo](./img/momo.png) |
-| PayPal | [Link](paypal.me/KurumiGaming2004) |
+| PayPal | [Link](https://paypal.me/KurumiGaming2004) |
 | Other methods | Contact me! |
